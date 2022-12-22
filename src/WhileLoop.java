@@ -1,5 +1,5 @@
 
- int sum = 0;
+ /*int sum = 0;
       int number = LOWERBOUND;        // declare and init loop index variable
       while (number <= UPPERBOUND) {  // test
          sum += number;
@@ -19,3 +19,4 @@ Modify the program to sum from 111 to 8899, and compute the average. Introduce a
          ......
          ++count;
       }
+*/
